@@ -4,13 +4,13 @@
 
 ## Table Of Contents
 
-- ### [How to use](#How-It-Work)
-  - ### [Installation](#installation)
-  - ### [Importing](#importing)
-  - ### [Overview](#overview)
-- ### [Technologies](#Technologies)
-- ### [Minimal Requirements](#Minimal-Requirements)
-- ### [Author](#Author)
+- [How to use](#How-It-Work)
+  - [Installation](#installation)
+  - [Importing](#importing)
+  - [Overview](#overview)
+- [Technologies](#Technologies)
+- [Minimal Requirements](#Minimal-Requirements)
+- [Author](#Author)
 
 # How It Work
 
@@ -81,14 +81,14 @@ let result = paginate(users,page,limit)
 
 # Technologies
 
-- ### javascript
-- ### node.js
+- javascript
+- node.js
 
 # Minimal-Requirements
 
-- ### npm or Yarn
+- npm or Yarn
 
-* ### installation of node.js
+* installation of node.js
 
 # 👤 Author
 
