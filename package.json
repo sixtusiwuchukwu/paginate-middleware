@@ -6,6 +6,10 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sixtusiwuchukwu/paginate-middleware.git"
+  },
   "keywords": [
     "pagination",
     "node.js",
@@ -14,5 +18,9 @@
     "array"
   ],
   "author": "sixtus",
-  "license": "ISC"
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sixtusiwuchukwu/paginate-middleware.git"
+  },
+  "homepage": "https://github.com/sixtusiwuchukwu/paginate-middleware.git/#readme"
 }

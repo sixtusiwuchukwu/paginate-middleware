@@ -4,13 +4,13 @@
 
 ## Table Of Contents
 
-- [How to use](#How-It-Work)
-  - [installation](#How-It-Work-installation)
-  - [importing](#importing)
-  - [overview](#overview)
-- [Technologies](#Technologies)
-- [Minimal Requirements](#Minimal-Requirements)
-- [Author](#Author)
+- ### [How to use](#How-It-Work)
+  - ### [Installation](#installation)
+  - ### [Importing](#importing)
+  - ### [Overview](#overview)
+- ### [Technologies](#Technologies)
+- ### [Minimal Requirements](#Minimal-Requirements)
+- ### [Author](#Author)
 
 # How It Work
 
@@ -21,9 +21,11 @@ npm install paginate-middleware
 
 ```
 
-## Usage
+## Importing
 
 `const paginate = require("paginate-middleware")`
+
+## Overview
 
 you will be passing a mongoose model just like below
 
@@ -38,7 +40,7 @@ you will be passing a mongoose model just like below
 
 ```
 
-and the request will look like below
+and the request url will look like below
 
 GET http://localhost:3000/users?page=2&limit=3
 
